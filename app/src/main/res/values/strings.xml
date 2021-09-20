@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BitcoinTracker</string>
+    <string name="hyperlink">Powered by\n<a href="https://www.coindesk.com/price/bitcoin">CoinDesk</a></string>
+</resources>
